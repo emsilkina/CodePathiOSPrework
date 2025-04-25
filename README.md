@@ -22,6 +22,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Snapchat
+- Sending random photos to your friends and being able to edit them by adding text or stickers on top
+- Chats disappear if they aren't saved
+- Seeing my friend's Bitmojis on the app to see their locations
+
+Spotify
+- Creating albums of my favorite music
+- Being able to view the current music that is playing on my homescreen as well as being able to skip over songs without entering the app
+
 ## Notes
 
 The most challenging aspect was creating a textfield with an accompanying button such that the university name is updated when the user clicks the button.
