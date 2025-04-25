@@ -40,6 +40,8 @@ Instagram
 - Viewing my friends' stories and posts while also interacting with them
 - Watching short clips catered to my interests
 
+I would like to build an app called "WYD" where users can make posts for events such as "Thai dinner Monday 5-7 pm" or "Tennis 12-2pm" which they post to certain groups they had created. When friends look through the posts, they can see whether there are any events that align with their availabilities. Also, there can be university-wide events that will also be posted there. This app would make it easier for people to join events as well as for them to find people to do certain activities. This app would have a chat feature, a post feed, a page to create new events, as well as a page to manage groups and friends.
+
 ## Notes
 
 The most challenging aspect was creating a textfield with an accompanying button such that the university name is updated when the user clicks the button.
