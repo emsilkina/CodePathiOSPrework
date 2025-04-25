@@ -36,6 +36,10 @@ Spotify
 - Creating albums of my favorite music
 - Being able to view the current music that is playing on my homescreen as well as being able to skip over songs without entering the app
 
+Instagram 
+- Viewing my friends' stories and posts while also interacting with them
+- Watching short clips catered to my interests
+
 ## Notes
 
 The most challenging aspect was creating a textfield with an accompanying button such that the university name is updated when the user clicks the button.
